@@ -23,6 +23,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102C57?style=flat&logo=scikit-learn&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLM%20AI-6F42C1?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-009688?style=flat&logo=databricks&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-E06C75?style=flat&logo=n8n&logoColor=white)
 
 ---
 
