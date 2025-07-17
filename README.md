@@ -36,10 +36,9 @@
 
 ### 🚀 Recent Work
 
-- 🎯 **[CereBro AI](cerebro-ai.streamlit.app)** – AI-powered content companion built with Supabase + Streamlit
-- 📊 **Dual DB Task Logger** – Tracks tasks via SQLite & PostgreSQL ([GitHub](https://github.com/iareebahmad/Dual-DB-Task-Logger))
+- 🎯 **[CereBro AI]** – AI-powered content companion built with Supabase + Streamlit
+- 📊 **Dual DB Task Logger** – Tracks tasks via SQLite & PostgreSQL
 - ✍️ Contributed a chapter to a Springer book on AI applications
-- 👨‍💼 Recently promoted to **Engineering Lead @ GOA**
 
 ---
 
