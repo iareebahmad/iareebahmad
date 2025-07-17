@@ -1,18 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Mohammad Areeb Ahmad</h1>
 
 <p align="center">
-  🧠 ML Enthusiast • 🐍 Pythonista • 🔐 Crypto-Curious • 💻 Web Tinkerer
+  🧠 ML Enthusiast • 🐍 Pythonista • 🔐 Cyber Curious • 🌐 Fullstack Tinkerer
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm passionate about **Machine Learning**, **C++ Programming**, and **Cybersecurity**
-- 🔭 Currently working on: `ML Apps and Automation`
-- 🌱 Learning more about: **Cloud Security**, **LLMs**, and **AI Applications**
-- 💬 Ask me about **Python**, **C++**, and web scripting tools
-- ✨ Fun Fact: I love exploring both code and cars 🛻
+- 🎓 Passionate about **Machine Learning**, **C++**, and **Cybersecurity**
+- 🔭 Currently building: `CereBro AI` — A modular AI-powered SaaS app for intelligent file interaction  
+- ⚙️ Exploring: `Supabase`, `Streamlit`, `LangChain`, and `Firebase` integrations  
+- 🌱 Learning more about: **Cloud Security**, **LLMs**, **OCR/Visual AI**, and **AI Infra**
+- 💬 Ask me about **Python**, **C++**, Supabase/Auth, and fullstack AI prototyping  
+- ✨ Fun Fact: I love reverse-engineering both systems and steering wheels 🛻
 
 ---
 
@@ -21,13 +22,30 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102C57?style=flat&logo=scikit-learn&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLM%20AI-6F42C1?style=flat&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/-FAISS-009688?style=flat&logo=databricks&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-E06C75?style=flat&logo=n8n&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs%20(OpenAI%20&%20Claude)-6F42C1?style=flat&logo=openai&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Recent Work
+
+- 🎯 **[CereBro AI](https://github.com/iareebahmad/cerebro-ai)** – AI-powered content companion built with Supabase + Streamlit
+- 📊 **Dual DB Task Logger** – Tracks tasks via SQLite & PostgreSQL ([GitHub](https://github.com/iareebahmad/Dual-DB-Task-Logger))
+- ✍️ Contributed a chapter to a Springer book on AI applications
+- 👨‍💼 Recently promoted to **Engineering Lead @ GOA**
+
+---
+
+### 📜 Certifications
+
+- 🧩 **Microsoft Certified: Azure Data Fundamentals (DP-900)**
 
 ---
 
@@ -43,7 +61,7 @@
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-areeb-ahmad-552089190/)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](m.areeb.ahmad@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.areeb.ahmad@gmail.com)
 
 ---
 
