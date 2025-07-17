@@ -13,7 +13,7 @@
 - ⚙️ Exploring: `Supabase`, `Streamlit`, `LangChain`, and `Firebase` integrations  
 - 🌱 Learning more about: **Cloud Security**, **LLMs**, **OCR/Visual AI**, and **AI Infra**
 - 💬 Ask me about **Python**, **C++**, Supabase/Auth, and fullstack AI prototyping  
-- ✨ Fun Fact: I love reverse-engineering both systems and steering wheels 🛻
+- ✨ Fun Fact: I love reverse-engineering both systems and steering wheels 👨‍🔧
 
 ---
 
